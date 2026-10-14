@@ -1,0 +1,2 @@
+# tcc-Paulo_Marllon-Bruno-estudo-imers-o-ludonarrativa-game-design-interativo
+Dissonância ludonarrativa afeta a imersão nos jogos. Este estudo analisou o impacto da coesão criando o protótipo de RPG 2D Tower of Mages na Unity. Os resultados mostram que alinhar a mecânica de "Corrupção" a dilemas éticos da história é viável na codificação, reduzindo quebras no círculo mágico e criando experiências interativas mais coesas.
